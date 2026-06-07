@@ -524,9 +524,6 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_cctv4/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd
 
-#EXTINF:-1 tvg-id="TheKPop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvvqyv8ATXYVoiYrvte1ItSAk-vSXR10EmrGX61k5pEg&s=10" group-title="Music", The K-Pop
-https://www.youtube.com/watch?v=JVocS7Yftw8
-
 #EXTINF:-1 tvg-id="Nickelodeon.ph" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png" group-title="Kids",Nickelodeon
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
