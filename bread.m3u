@@ -11,6 +11,19 @@
 #KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
+#EXTINF:-1 tvg-id="3rstv" tvg-logo="https://i.imgur.com/50RyQA7.jpeg" group-title="Entertainment", 3RsTV
+https://3rstv.elektriko4444.workers.dev/peanut.m3u8
+
+#EXTINF:-1 tvg-id="3rstv" tvg-logo="https://i.imgur.com/OCS1l7G.jpeg" group-title="Entertainment", 3rsSinePinoy
+https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8
+
+#EXTINF:-1 tvg-id="3rstv" tvg-logo="https://i.imgur.com/b4rjf8n.png" group-title="Entertainment", 3rsMovieBoxPh
+https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
+
+#EXTINF:-1 tvg-id="3rstv" tvg-logo="https://i.imgur.com/OMGlC4R.png" group-title="Entertainment", 3rsCartoonChannels
+https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
+
+
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/BUVWBm2.png" group-title="Entertainment", Kapatid Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
