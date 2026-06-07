@@ -261,6 +261,41 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/i
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4e2b9d61c754f3a8d109b6c2f1e7a55:1d8d975f0bc2ed90eda138bd31f173f4
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
+#EXTINF:-1 tvg-id="disneych" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHdWrRlJXOWYeDB6XRF0j7rzQMdImjsHnVuC71I8RGBg&s=10" group-title="Kids", Disney Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
+#EXTINF:-1 tvg-id="disneyjr" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/1200?cb=20240206232316" group-title="Kids", Disney Jr
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
+https://bks400-tol-110.quieroxview.com.mx/bpk-tv/disney_jr_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="disneyxd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2009_Disney_XD_logo.svg/1280px-2009_Disney_XD_logo.svg.png" group-title="Kids", Disney XD
+http://kstv.us:8080/live/MeZyl1987/9735100903/23330.m3u8
+http://kstv.us:8080/live/Everocadd3/5493154841/23330.m3u8
+http://kstv.us:8080/live/Lupillo13/Emilio13/23330.m3u8
+http://kstv.us:8080/live/hwilliamsw1/0938999941/23330.m3u8
+http://kstv.us:8080/live/P6YPNCrcgG/7329973937/23330.m3u8
+http://kstv.us:8080/live/6rk80svXKE/44886815569/23330.m3u8
+http://kstv.us:8080/live/RichardW/92565393518/23330.m3u8
+http://kstv.us:8080/live/7GKJ04vg3r/1066255851/23330.m3u8
+http://kstv.us:8080/live/GsPDfRs2H/Grade100/23330.m3u8
+http://kstv.us:8080/live/s66CwphxKj/Megalodon1031/23330.m3u8
+http://kstv.us:8080/live/PrettyTony/3681111097/23330.m3u8
+http://kstv.us:8080/live/curtdog66/58400050484/23330.m3u8
+http://kstv.us:8080/live/XCw0daKptJ/74486665872/23330.m3u8
+http://kstv.us:8080/live/HDH5UREEYP/42660591264/23330.m3u8
+http://kstv.us:8080/live/grijalva28/Infiniti08/23330.m3u8
+http://kstv.us:8080/live/jsdaniels74/1836272615/23330.m3u8
+http://kstv.us:8080/live/5g6pBW70Cd/3049898118/23330.m3u8
+http://kstv.us:8080/live/4abYcSzugD/7732488130/23330.m3u8
+http://kstv.us:8080/live/jQQ98v5kER/1962045738/23330.m3u8
+
 
 #EXTINF:-1 tvg-id="Cg.Hbofam.ph" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="Movies",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
