@@ -11,12 +11,12 @@
 #KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="Gmapinoy" tvg-logo="https://imgur.com/a/vQHUI9F" group-title="Entertainment", GMA Pinoy TV
+#EXTINF:-1 tvg-id="gmapt3" tvg-logo="https://imgur.com/a/vQHUI9F" group-title="Entertainment", GMA Pinoy TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7b5d15a7385546768aca9fd505ad5e16:f534393c84c1a9c17fa36bc3a4380981
-https://abslive.akamaized.net/dash/live/2099522/gmapt3/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=f534393c84c1a9c17fa36bc3a4380981:7b5d15a7385546768aca9fd505ad5e16
+https://abslive.akamaized.net/dash/live/2099522/gmapt3/manifest.mpd
 
 #EXTINF:-1 tvg-id="3rstv" tvg-logo="https://i.imgur.com/50RyQA7.jpeg" group-title="Entertainment", 3RsTV
 https://3rstv.elektriko4444.workers.dev/peanut.m3u8
