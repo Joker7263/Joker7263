@@ -11,7 +11,7 @@
 #KODIPROP:inputstream.adaptive.license_key=b1c7e9d24f8a4d6c9e337a2f1c5b8d60:8ff2e524cc1e028f2a4d4925e860c796
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/oneph_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="gmapt3" tvg-logo="https://imgur.com/a/vQHUI9F" group-title="Entertainment", GMA Pinoy TV
+#EXTINF:-1 tvg-id="gmapt3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbUEzL5DQ-W85SEzk2hv0nQIplxLpRzl-i9ZfBVNZyuH1KSKQS09IIcqbh&s=10" group-title="Entertainment", GMA Pinoy TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
