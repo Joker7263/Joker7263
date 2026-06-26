@@ -4,6 +4,13 @@
 
 #EXTINF:-1 group-logo="https://i.imgur.com/31e7xew.png"
 
+#EXTINF:-1 tvg-id="heartasia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Heart_of_Asia_logo.svg/500px-Heart_of_Asia_logo.svg.png" group-title="Entertainment", Heart Of Asia
+https://nokotan.anhkz.fr/channel/n5f560977/index.m3u8?q=d0475082894a131707d75e3ae57d6608
+
+#EXTINF:-1 tvg-id="heartasiamovie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Iheartmovies2.png/revision/latest/scale-to-width-down/250?cb=20210413032232" group-title="Entertainment", I Heart Movies
+https://nokotan.anhkz.fr/channel/n696d5dc/index.m3u8?q=d0475082894a131707d75e3ae57d6608
+
+
 #EXTINF:-1 tvg-id="Oneph.ph" tvg-logo="https://i.imgur.com/gkluDe9.png" channel-number="1" group-title="Entertainment", One PH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
