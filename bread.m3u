@@ -93,8 +93,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/onenews_hd1/default/index.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb
+https://cdnec02.mediaquest.com.ph/bpk-token/2ab@gbjwpjebez4fbvhsvdpt1sm5sqiis3lcgjjmeyba/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Entertainment", TV5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
