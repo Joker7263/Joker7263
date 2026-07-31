@@ -36,14 +36,13 @@ https://abslive.akamaized.net/dash/live/2099522/glife3/manifest.mpd
 https://3rstv.elektriko4444.workers.dev/peanut.m3u8
 
 #EXTINF:-1 tvg-id="3rstv" tvg-logo="https://i.imgur.com/OCS1l7G.jpeg" group-title="Entertainment", 3rsSinePinoy
-https://3rssinepinoy2.elektriko4444.workers.dev/mochi.m3u8
+https://3rssinepinoy.mochipeanut42.workers.dev/mochi.m3u8
 
 #EXTINF:-1 tvg-id="3rstv" tvg-logo="https://i.imgur.com/b4rjf8n.png" group-title="Entertainment", 3rsMovieBoxPh
-https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
+https://3rsmoviebox.mochipeanut42.workers.dev/moon.m3u8
 
 #EXTINF:-1 tvg-id="3rstv" tvg-logo="https://i.imgur.com/OMGlC4R.png" group-title="Entertainment", 3rsCartoonChannels
-https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
-
+https://3rscartoonmovies.mochipeanut42.workers.dev/kolet.m3u8
 
 #EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/BUVWBm2.png" group-title="Entertainment", Kapatid Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
